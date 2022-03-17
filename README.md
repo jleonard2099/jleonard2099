@@ -34,3 +34,5 @@ I was 8-9 years old when I learned BASIC. My older brother got a Nintendo so I g
 <p align="left">
 This would be the spark that ignited my interest in programming. And while I've since moved on from BASIC, this spark would later serve me when I was older and got interested in Comp Sci. By college, I would mostly learn Visual BASIC and C++ (although I had to learn other languages). However I only used it to make "utilities" to help me with repetitive tasks. It wasn't until a decade or so ago I learned .NET to make a "utility" for the company I worked at. And when I got tired of all the text required for VB scripts to do system administration, I learned PowerShell and BASH to help me become one of the most efficient dev ops I know.
 </p>
+
+This README generated using [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
