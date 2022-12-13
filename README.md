@@ -28,7 +28,7 @@
 
 <h3 align="left">Background</h3>
 <p align="left">
-I was 8-9 years old when I learned BASIC. My older brother got a Nintendo so I got the C64 as a hand-me-down. He had several magazines with sample code and in one of them I found code for an air hockey game. I wanted to play it so badly, I still don't believe I got it working, but I came close. In the process, I learned enough BASIC to break into games and modify sprites and locations.
+I was 8-9 years old when I learned BASIC. My older brother got a Nintendo so I got the C64 as a hand-me-down. He had several magazines with sample code and in one of them I found code for an air hockey game. I wanted to play it so badly that I spent a week trying to get it working. Eventhough I never did, I came close. And in the process, I learned enough BASIC to break into games and modify sprites and locations.
 </p>
 
 <p align="left">
